@@ -6349,6 +6349,7 @@ button.close {
   height: auto;
   max-width: 100%;
   line-height: 1;
+  max-height: inherit;
 }
 
 .carousel-inner > .active,
