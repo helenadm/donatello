@@ -57,9 +57,9 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .carousel-indicators{bottom: 0;}
 
 /*works*/
-#works{padding-top:6em;}
-#works figcaption a{border:1px solid #fff;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em;}
-#works figcaption a:hover{text-decoration: none;padding: 0 3em;}
+/*#works{padding-top:6em;}
+#works figcaption a{border:1px solid red;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em;}
+#works figcaption a:hover{text-decoration: none;padding: 0 3em;}*/
 /*works*/
 
 /*team*/
