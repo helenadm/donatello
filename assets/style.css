@@ -1,6 +1,7 @@
 body {	color:#333;	font:300 15px/15px Roboto,Arial,Helvetica;background:url(../images/bg.jpg) right no-repeat fixed #fff; -webkit-font-smoothing:antialiased;}
 
-/*a{color:#00a9c6; text-decoration:none;}*/
+
+/* a{color:#00a9c6; text-decoration:none;} */
 a{color:#ccc; text-decoration:none;}
 a:hover{color:#666;}
 .btn,a,.btn:hover,a:hover {
