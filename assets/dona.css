@@ -1,13 +1,15 @@
 .spacer1{padding: 10em 0;}
 /*about*/
 .about.spacer1{padding-left: 4em; padding-right: 4em;padding-bottom: 0;}
-.services ul li{width: 10em;height: 10em;border: 1px solid #ccc;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #999;}
-.services ul li span{line-height: 2em;display: inline-block;font-weight: 300;}
-.services ul li span i{font-size: 3em;}
-.services ul li span b{display: block;font-size: 1em;font-weight: 300;}
+.services1 ul li{width: 10em;height: 10em;border: 1px solid #ccc;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #999;}
+.services1 ul li span{line-height: 2em;display: inline-block;font-weight: 300;}
+.services1 ul li span i{font-size: 3em;}
+.services1 ul li span b{display: block;font-size: 1em;font-weight: 300;}
 .about.spacer1{padding-left: 2em;padding-right: 2em;}
 .spacer1{padding:2em 0 0 0;}
-.services ul li{margin-bottom: 1em;}
+.services1 ul li{margin-bottom: 1em;}
+.services1 ul li{width: 9em;height: 9em;}
+.services1 ul li{margin-bottom: 1em;}
 
 .navbar-inverse1 {
   background-color: #222222;
@@ -73,7 +75,7 @@
 .navbar-inverse1 .navbar-nav > .open > a,
 .navbar-inverse1 .navbar-nav > .open > a:hover,
 .navbar-inverse1 .navbar-nav > .open > a:focus {
-  color: #red;
+  color: red;
   background-color: #080808;
 }
 .navbar-inverse{background: #ccc;}
